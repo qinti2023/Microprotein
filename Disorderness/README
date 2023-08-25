@@ -78,3 +78,8 @@ on its sequential environment, including its potential interaction partners.
 Applying this calculation for IUP sequences, their estimated energies are
 clearly shifted towards less favorable energies compared to globular proteins,
 enabling the predicion of protein disorder on this ground. 
+
+## databse.py
+test.txt: File containing the names and Amino sequences separated by the tab 
+iupreded.txt: File produced by the intermediate process
+result.txt: File containing the names, Amino sequences and the average score for disorderness.
