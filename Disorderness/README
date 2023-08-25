@@ -80,6 +80,6 @@ clearly shifted towards less favorable energies compared to globular proteins,
 enabling the predicion of protein disorder on this ground. 
 
 ## databse.py
-test.txt: File containing the names and Amino sequences separated by the tab 
-iupreded.txt: File produced by the intermediate process
+test.txt: File containing the names and Amino sequences separated by the tab.
+iupreded.txt: File produced by the intermediate process, which can be ignored.
 result.txt: File containing the names, Amino sequences and the average score for disorderness.
